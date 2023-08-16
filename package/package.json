@@ -1,0 +1,11 @@
+{
+  "name": "number-to-word-kz",
+  "version": "1.0.0",
+  "description": "Converts number to text-based form in Kazakh language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Almubdi Mutaikhan",
+  "license": "ISC"
+}
